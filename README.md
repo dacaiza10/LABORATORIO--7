@@ -133,7 +133,7 @@ s/a. (s/f).  Valor medio y valor eficaz. http://www.uco.es/grupos/giie/cirweb/te
 
 # 7.7. VIDEO
 
-https://youtu.be/3QsWieBZ-RA
+https://youtu.be/THS1YqkPRxI
 
 # 7.8. CONCLUSIONES
 
